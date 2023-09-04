@@ -1,31 +1,29 @@
 Link to unlisted YouTube video:
-https://youtube.com/.....
+https://youtu.be/Uf_4mzJvU9M
 
 Two public links to the Concept Map (anyone on the internet can view without login):
 PDF: 
-https://github.com/you/CSE123/blob/main/submission3/Concept%20Map.pdf
+https://github.com/Shafinkhandaker/CSE438-Submissions/blob/main/submission3/Concept_map_CSE438_Task3.pdf
 Native/original format: 
-https://draw.io/...
+https://drive.google.com/file/d/1Xs4m_nmVy4FsluQXI55ge9iLIKGLIgCG/view?usp=sharing
 
 Name, Author, Edition, year, and publisher of the Book:
-Speech and Language Processing
-Jurafsky
-3rd edition
+Understanding Machine Learning: From Theory to Algorithms
+Shai Shalev-Shwartz and Shai Ben-David
 2014
-Pearson
+Cambridge University Press
 
 Link to the book:
-https://amazon.com/...
+https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html
 
 Link to the book chapter:
-https://books.google.com/books...
+https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html 
+chapter:The VC-Dimension
 
 Group Number:
-0
+09
 
 Group Members:
-12345678 Name A
-23456789 Name B
-34567890 Name C
-45678901 Name D
-56789012 Name E
+20301190 Sajidul Islam Khandaker
+20301412 Tahmina Talukdar
+20301204 Prima Sarker
