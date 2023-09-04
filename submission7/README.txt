@@ -11,7 +11,7 @@ Paper title:
 Enhancing Water Safety through Advanced Detection Techniques
 
 Paper presentation (anyone can view without login):
-https://github.com/Shafinkhandaker/CSE438-Submissions/blob/main/submission7/bonus_task_CSE_438.pdf
+https://github.com/primasarker/CSE438-Submission/blob/main/submission7/BONUS_TASK7_GROUP9.pdf
 
 Paper submission date (to workshop/conference):
 25 October 1999
