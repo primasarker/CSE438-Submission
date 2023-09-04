@@ -1,17 +1,17 @@
 Overleaf link with edit access to course instructor gmail and then email "anybody can edit" link to ST, RA.
-https://www.overleaf.com/project/....
+https://www.overleaf.com/8147441555tchxcvbnnydd
 
 Unlisted YouTube video:
-http://youtube....
+https://youtu.be/qbkXODG13S8
 
 Conference submitted paper / paper submission / login Link:
 https://easy....
 
 Paper title:
-Partially automated exam answer script checking for Intro to Marketing
+Vision Meets Language: Revolutionizing VQA using Multimodal Transformers
 
 Paper presentation (anyone can view without login):
-http://slides.google.com/
+https://docs.google.com/presentation/d/1x_cpPE6zcQiH1pweXWo8yv6VtkQebi43iH58OH7WhNw/edit#slide=id.p
 
 Paper submission date (to workshop/conference):
 25 October 1999
@@ -26,11 +26,9 @@ Conference URL:
 http://confsite/...
 
 Group Number:
-0
+09
 
 Group Members:
-12345678 Name A
-23456789 Name B
-34567890 Name C
-45678901 Name D
-56789012 Name E
+20301190 Sajidul Islam Khandaker
+20301412 Tahmina Talukdar
+20301204 Prima Sarker
